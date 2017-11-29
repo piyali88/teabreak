@@ -1,0 +1,50 @@
+{
+  "ProgramDetails": {
+    "ProgramOverview": {
+      "TemplateProgram": "", 
+      "FutureEngineFamilyCode": "", 
+      "CurrentSalesModels": "", 
+      "SplitPhaseObj": {
+        "Comments": "Dummy Split Phase Comment", 
+        "SplitPhase": 11114
+      }, 
+      "ProductGroup": "", 
+      "BestinClassCompetitor": "", 
+      "ProductType": "Prime Product", 
+      "NPIManagerDelegate": "Sorin Calugar", 
+      "ProgramStatus": "Active (Carol D Osbome on Jul-26-2012)", 
+      "CapitalProgramNumber": "", 
+      "NPIManager": "Carol D Osborne", 
+      "CurrentGatewayDate": "Prime Product", 
+      "SubmittedBy": "Sorin Calugar on Jul-26-2017", 
+      "NewSalesModels": "", 
+      "IniialPhaseObj": {
+        "IniialPhase": "Strategy-Launch(L)", 
+        "Comments": "Dummy Initial Phase Comment"
+      }, 
+      "ActivatedBy": "Sorin Calugar on Jul-26-2017", 
+      "GroupPresident": "", 
+      "ProgramTitle": "Large Articulated Truck Tier 4a (Regulated program)", 
+      "SkipActivityUpdated": "", 
+      "RegulatesProgramObj": {
+        "RegulatedProgram": "Checked", 
+        "Comments": "Dummy Comments"
+      }, 
+      "TestProgram": "", 
+      "ProgramID": 11234, 
+      "ProductManager": "Mike Simmons", 
+      "ProgramDescription": "Details Program Description", 
+      "ProgramCategoryObj": {
+        "ProgramCategory": "Prime-Product", 
+        "Comments": "Dummy Program Category Comment"
+      }, 
+      "Facility": "", 
+      "CurrentPhase": "13-Oct-2011", 
+      "ProgramType": "Prime-IDP", 
+      "LLevel": "L5", 
+      "EmissionTier": "", 
+      "ReferenceNew": "", 
+      "AdminUnit": ""
+    }
+  }
+}
